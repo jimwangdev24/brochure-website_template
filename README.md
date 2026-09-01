@@ -2,7 +2,6 @@
 
 A single-page brochure website template built with plain HTML, CSS, and JavaScript. It ships with an interactive 3D product viewer, an animated typing headline, a responsive mobile menu, and SEO metadata including JSON-LD structured data. The demo content is a fictional luxury SUV, the APEX Vantara — swap the copy, images, and 3D model for your own product.
 
-![APEX Vantara](img/apex-vantara-luxury-suv-hero.jpg)
 
 ## Getting Started
 
