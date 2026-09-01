@@ -1,0 +1,11 @@
+ityped v1.0.3
+Repo:   https://github.com/EmailThis/ityped
+Source: https://unpkg.com/ityped@1.0.3/dist/index.js
+Used in project via CDN (minified): https://unpkg.com/ityped@1.0.3
+
+
+model-viewer v4.3.1 (@google/model-viewer)
+Repo:   https://github.com/google/model-viewer
+Source: https://unpkg.com/@google/model-viewer@4.3.1/dist/model-viewer.js
+Used in project via CDN (minified): https://ajax.googleapis.com/ajax/libs/model-viewer/4.3.1/model-viewer.min.js
+
