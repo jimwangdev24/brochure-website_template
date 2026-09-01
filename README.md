@@ -22,17 +22,10 @@ No build step and no package manager. You only need:
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/brochure-website-template.git
+git clone https://github.com/jimwangdev24/brochure-website_template.git
 cd brochure-website-template
 ```
 
-Serve it:
-
-```
-python3 -m http.server 8000
-```
-
-Open http://localhost:8000. You should see the hero section with the animated headline, and the 3D model should load and respond to dragging.
 
 To use it for your own product, replace:
 
