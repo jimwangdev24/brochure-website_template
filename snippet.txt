@@ -1,0 +1,9 @@
+<model-viewer src="2021_land_rover_defender_110.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="aces" poster="poster.webp" shadow-intensity="1.05" environment-image="studio_kominka_02_2k.hdr" exposure="0.96">
+    <button class="Hotspot" slot="hotspot-1" data-position="24.888423011609028m 41.73146259055553m -17.583716326001976m" data-normal="0.16069494677520282m 0.22717108079632803m 0.9605053014589473m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">4.4L Twin-Turbo V8</div>
+    </button><button class="Hotspot" slot="hotspot-3" data-position="65.35072063214724m 27.62101687695928m -131.18678247095772m" data-normal="0.9876723868782794m 0.11877210636068852m -0.10196294890207791m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Adaptive Air Suspension</div>
+    </button><button class="Hotspot" slot="hotspot-4" data-position="39.07357382648559m 27.231252921734015m -0.4157962624333891m" data-normal="0.22219472641188598m 0.045243933034056015m 0.9739519957771826m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">8-Speed ZF Transmission</div>
+    </button>
+</model-viewer>
